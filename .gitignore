@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.agent-docs/
+.opencode/imagegen/
+*.png
+*.jpg
+*.jpeg
+*.webp
+auth.json
+.env

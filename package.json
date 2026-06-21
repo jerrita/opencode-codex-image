@@ -5,6 +5,26 @@
   "description": "OpenCode plugin: generate images via gpt-image-2 using Codex CLI credentials",
   "type": "module",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerrita/opencode-codex-image.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jerrita/opencode-codex-image/issues"
+  },
+  "homepage": "https://github.com/jerrita/opencode-codex-image#readme",
+  "keywords": [
+    "opencode",
+    "plugin",
+    "codex",
+    "openai",
+    "gpt-image-2",
+    "image-generation"
+  ],
+  "sideEffects": false,
+  "publishConfig": {
+    "access": "public"
+  },
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "exports": {
